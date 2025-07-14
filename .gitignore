@@ -1,0 +1,19 @@
+# Foundry global ignores
+out/
+cache/
+lib/
+zkout/
+broadcast/
+*.json
+
+# Env & local
+.env
+.vscode/
+*.log
+
+# Node (if using JavaScript tools)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
